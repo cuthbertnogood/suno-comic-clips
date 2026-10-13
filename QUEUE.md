@@ -1,6 +1,6 @@
 # Очередь загрузок комикс-клипов CutNoGood
 
-Обновлено: 13.10.2026 ~11:45 МСК (загрузка YouTube отложена: суточный лимит)
+Обновлено: 13.10.2026 ~11:55 МСК
 
 | Обложка | № | Трек | Ссылка Suno | Клип (кто сделал) | Файл | YouTube (кто загрузил, ссылка, дата) | Rutube (статус) | Статус |
 |---|---|---|---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | <img src="covers/17_sun-in-the-east.jpg" width="120"> | 17 | Sun in the East (Deep House Mix) | https://suno.com/song/efe0ab7d-da38-45bc-b349-dfb28c667a0d | Suno2 | /workspace/comic_clip/clip_16_sun_in_the_east.mp4 | — | — | комикс готов |
 | <img src="covers/18_katafalk-budushchego.jpg" width="120"> | 18 | Катафалк Будущего | https://suno.com/song/126691ec-8476-47bf-86c1-3f5f141b17ae | Suno2 | /workspace/comic_clip/clip_17_katafalk.mp4 | — | — | комикс готов |
 | <img src="covers/19_premii-dosrochno.jpg" width="120"> | 19 | Премии досрочно | https://suno.com/song/857a8b82-a0ac-4691-88b5-f01b732d1b80 | Suno2 | /workspace/comic_clip/clip_18_premii_dosrochno.mp4 | — | — | комикс готов |
-| <img src="covers/20_close-your-eyes.jpg" width="120"> | 20 | Close Your Eyes | https://suno.com/song/c07a070c-fd49-4293-9859-93659af045ee | Suno2 | comic_inputs/19 | — | — | в очереди на комикс |
+| <img src="covers/20_close-your-eyes.jpg" width="120"> | 20 | Close Your Eyes | https://suno.com/song/c07a070c-fd49-4293-9859-93659af045ee | Suno2 | /workspace/comic_clip/clip_19_close_your_eyes.mp4 | — | — | комикс готов |
 | <img src="covers/21_gorodok-pisem.jpg" width="120"> | 21 | Городок  ненаписанных писем | https://suno.com/song/5bdcfd4d-1922-4f61-a8eb-e2a894c7d50d | Suno2 | comic_inputs/20 | — | — | в очереди на комикс |
 | <img src="covers/22_derzhava-6.jpg" width="120"> | 22 | Держава-6 (Remastered x3) - public One | https://suno.com/song/cce8343a-9f8b-49dc-b9c6-3a5d1a53e29f | Suno2 | comic_inputs/21 | — | — | в очереди на комикс |
 | <img src="covers/23_mozhem-a-zachem.jpg" width="120"> | 23 | Можем, а зачем? | https://suno.com/song/9e7d4ebf-e2b9-4271-98f4-30d35c1699ee | Suno2 | comic_inputs/22 | — | — | в очереди на комикс |

@@ -24,6 +24,7 @@
 | 17 | Sun in the East (Deep House Mix) | [17_sun-in-the-east](17_sun-in-the-east/) | [sun-in-the-east-v1](https://github.com/cuthbertnogood/suno-comic-clips/releases/tag/sun-in-the-east-v1) |
 | 18 | Катафалк Будущего | [18_katafalk-budushchego](18_katafalk-budushchego/) | [katafalk-v1](https://github.com/cuthbertnogood/suno-comic-clips/releases/tag/katafalk-v1) |
 | 19 | Премии досрочно | [19_premii-dosrochno](19_premii-dosrochno/) | [premii-dosrochno-v1](https://github.com/cuthbertnogood/suno-comic-clips/releases/tag/premii-dosrochno-v1) |
+| 20 | Close Your Eyes | [20_close-your-eyes](20_close-your-eyes/) | [close-your-eyes-v1](https://github.com/cuthbertnogood/suno-comic-clips/releases/tag/close-your-eyes-v1) |
 
 Персонажи вымышленные; реальные логотипы и символы не используются.
 
