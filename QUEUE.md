@@ -1,6 +1,6 @@
 # Очередь загрузок комикс-клипов CutNoGood
 
-Обновлено: 13.10.2026 ~12:43 МСК
+Обновлено: 13.10.2026 ~12:52 МСК
 
 | Обложка | № | Трек | Ссылка Suno | Клип (кто сделал) | Файл | YouTube (кто загрузил, ссылка, дата) | Rutube (статус) | Статус |
 |---|---|---|---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | <img src="covers/24_vybory.jpg" width="120"> | 24 | Выборы выборы … кандидаты …  | https://suno.com/song/cd2798c7-fd8a-4e19-8ede-559fdcb028f6 | Suno2 | /workspace/comic_clip/clip_23_vybory.mp4 | — | — | комикс готов |
 | <img src="covers/25_kapli-rework.jpg" width="120"> | 25 | Капли (rework number 3-2-1) (Remastered) | https://suno.com/song/b4f3c5ca-97d8-43a9-8d42-0de6a57864a9 | Suno2 | /workspace/comic_clip/clip_24_kapli_rework.mp4 | — | — | комикс готов |
 | <img src="covers/26_paren-ne-promah.jpg" width="120"> | 26 | Парень не проМАХ (Х - это «Ха») | https://suno.com/song/c5fdf0a4-e38b-49be-979f-b1c9aa9b7ccf | Suno2 | /workspace/comic_clip/clip_26_paren_ne_promah.mp4 | — | — | комикс готов |
-| <img src="covers/27_vysshee.jpg" width="120"> | 27 | Высшее | https://suno.com/song/3111ee7f-2f61-4064-888b-aa54c9a7dfe5 | Suno2 | comic_inputs/27 | — | — | в очереди на комикс |
+| <img src="covers/27_vysshee.jpg" width="120"> | 27 | Высшее | https://suno.com/song/3111ee7f-2f61-4064-888b-aa54c9a7dfe5 | Suno2 | /workspace/comic_clip/clip_27_vysshee.mp4 | — | — | комикс готов |
 | <img src="covers/28_chaplin-message.jpg" width="120"> | 28 | Charlie Chaplin - A message to humanity (russian version) | https://suno.com/song/63efd42e-90ad-4db3-b7b9-047f0e085eef | Suno2 | comic_inputs/28 | — | — | в очереди на комикс |
 | <img src="covers/29_bez-pauz-tolko-bas.jpg" width="120"> | 29 | Без пауз… только Бас…. Wayne and Del | https://suno.com/song/c79f7fc5-e67f-48a2-8cf0-c9963f7530d2 | Suno2 | comic_inputs/30 | — | — | в очереди на комикс |
 | <img src="covers/30_oreshkin.jpg" width="120"> | 30 | Орешкин и его интернет | https://suno.com/song/41dc6949-6d41-4922-9a58-9d7f0d3c9923 | Suno2 | comic_inputs/31 | — | — | в очереди на комикс |
