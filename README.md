@@ -16,3 +16,11 @@
 | 10 | Entspann dich, Baby | [10-entspann-dich-baby](10-entspann-dich-baby/) | [entspann-dich-baby-v1](https://github.com/cuthbertnogood/suno-comic-clips/releases/tag/entspann-dich-baby-v1) |
 
 Персонажи вымышленные; реальные логотипы и символы не используются.
+
+## Очередь загрузок
+
+Сводная таблица: [QUEUE.md](QUEUE.md).
+
+Статусы: **в очереди на комикс** → **комикс готов** → **загружено YouTube** → **загружено Rutube**.
+
+Кто что делает: Suno2 рисует комиксы, Suno (Grok Bot) загружает их на YouTube (CutNoGood, не больше 6 в день), агент Rutube загружает на Rutube.
