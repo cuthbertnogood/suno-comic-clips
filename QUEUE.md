@@ -17,7 +17,7 @@
 | <img src="covers/11_lunnyj-priliv.jpg" width="120"> | 11 | Лунный Прилив (Moonwave 2026 Mix) | https://suno.com/song/2b71836b-4d54-4f21-ad8a-eed72a2036f9 | Suno2 | /workspace/comic_clip/clip_10_lunnyj_priliv.mp4 | — | — | комикс готов |
 | <img src="covers/12_kapli-minimal.jpg" width="120"> | 12 | Капли (минимал) | https://suno.com/song/a2c5d633-1a25-489f-9c88-b5418bd9ba1f | Suno2 | comic_inputs/11 | — | — | в очереди на комикс |
 | <img src="covers/13_derzhava-2025.jpg" width="120"> | 13 | Держава-2025 (Remastered 5) - public One (Remastered) | https://suno.com/song/4c1996d7-3f21-44b7-acc9-2d549475997b | Suno2 | comic_inputs/12 | — | — | в очереди на комикс |
-| <img src="covers/14_my-kapli.jpg" width="120"> | 14 | Мы капли, что познали море (Remastered x2) | https://suno.com/song/a33a088d-b108-4f89-a71b-14bfc6d571fb | Suno2 | comic_inputs/13 | — | — | в очереди на комикс |
+| <img src="covers/14_my-kapli.jpg" width="120"> | 14 | Мы капли, что познали море (Remastered x2) | https://suno.com/song/a33a088d-b108-4f89-a71b-14bfc6d571fb | Suno2 | /workspace/comic_clip/clip_13_my_kapli.mp4 | — | — | комикс готов |
 | <img src="covers/15_flute-lullaby.jpg" width="120"> | 15 | The flute lullaby | https://suno.com/song/03970ecd-99a6-4275-8037-6ae2c855345d | Suno2 | comic_inputs/14 | — | — | в очереди на комикс |
 | <img src="covers/16_cifrovoj-konclager.jpg" width="120"> | 16 | Цифровой концлагерь (РКН микс) | https://suno.com/song/053f8ea0-9dbe-42c9-83f1-c2b4a25b9f30 | Suno2 | comic_inputs/15 | — | — | в очереди на комикс |
 | <img src="covers/17_sun-in-the-east.jpg" width="120"> | 17 | Sun in the East (Deep House Mix) | https://suno.com/song/efe0ab7d-da38-45bc-b349-dfb28c667a0d | Suno2 | comic_inputs/16 | — | — | в очереди на комикс |

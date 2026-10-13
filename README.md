@@ -16,6 +16,10 @@
 | 10 | Entspann dich, Baby | [10-entspann-dich-baby](10-entspann-dich-baby/) | [entspann-dich-baby-v1](https://github.com/cuthbertnogood/suno-comic-clips/releases/tag/entspann-dich-baby-v1) |
 | 11 | Лунный Прилив (Moonwave 2026 Mix) | [11_lunnyj-priliv](11_lunnyj-priliv/) | [lunnyj-priliv-v1](https://github.com/cuthbertnogood/suno-comic-clips/releases/tag/lunnyj-priliv-v1) |
 
+| 12 | Капли (минимал) | [12_kapli](12_kapli/) | [kapli-v1](https://github.com/cuthbertnogood/suno-comic-clips/releases/tag/kapli-v1) |
+| 13 | Держава-2025 | [13_derzhava](13_derzhava/) | [derzhava-v1](https://github.com/cuthbertnogood/suno-comic-clips/releases/tag/derzhava-v1) |
+| 14 | Мы капли, что познали море | [14_my-kapli-chto-poznali-more](14_my-kapli-chto-poznali-more/) | [my-kapli-v1](https://github.com/cuthbertnogood/suno-comic-clips/releases/tag/my-kapli-v1) |
+| 15 | The flute lullaby | [15_flute-lullaby](15_flute-lullaby/) | [flute-lullaby-v1](https://github.com/cuthbertnogood/suno-comic-clips/releases/tag/flute-lullaby-v1) |
 Персонажи вымышленные; реальные логотипы и символы не используются.
 
 ## Очередь загрузок
