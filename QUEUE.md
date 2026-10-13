@@ -21,7 +21,7 @@
 | <img src="covers/15_flute-lullaby.jpg" width="120"> | 15 | The flute lullaby | https://suno.com/song/03970ecd-99a6-4275-8037-6ae2c855345d | Suno2 | comic_inputs/14 | — | — | в очереди на комикс |
 | <img src="covers/16_cifrovoj-konclager.jpg" width="120"> | 16 | Цифровой концлагерь (РКН микс) | https://suno.com/song/053f8ea0-9dbe-42c9-83f1-c2b4a25b9f30 | Suno2 | /workspace/comic_clip/clip_15_cifrovoj_konclager.mp4 | — | — | комикс готов |
 | <img src="covers/17_sun-in-the-east.jpg" width="120"> | 17 | Sun in the East (Deep House Mix) | https://suno.com/song/efe0ab7d-da38-45bc-b349-dfb28c667a0d | Suno2 | /workspace/comic_clip/clip_16_sun_in_the_east.mp4 | — | — | комикс готов |
-| <img src="covers/18_katafalk-budushchego.jpg" width="120"> | 18 | Катафалк Будущего | https://suno.com/song/126691ec-8476-47bf-86c1-3f5f141b17ae | Suno2 | comic_inputs/17 | — | — | в очереди на комикс |
+| <img src="covers/18_katafalk-budushchego.jpg" width="120"> | 18 | Катафалк Будущего | https://suno.com/song/126691ec-8476-47bf-86c1-3f5f141b17ae | Suno2 | /workspace/comic_clip/clip_17_katafalk.mp4 | — | — | комикс готов |
 | <img src="covers/19_premii-dosrochno.jpg" width="120"> | 19 | Премии досрочно | https://suno.com/song/857a8b82-a0ac-4691-88b5-f01b732d1b80 | Suno2 | comic_inputs/18 | — | — | в очереди на комикс |
 | <img src="covers/20_close-your-eyes.jpg" width="120"> | 20 | Close Your Eyes | https://suno.com/song/c07a070c-fd49-4293-9859-93659af045ee | Suno2 | comic_inputs/19 | — | — | в очереди на комикс |
 | <img src="covers/21_gorodok-pisem.jpg" width="120"> | 21 | Городок  ненаписанных писем | https://suno.com/song/5bdcfd4d-1922-4f61-a8eb-e2a894c7d50d | Suno2 | comic_inputs/20 | — | — | в очереди на комикс |
