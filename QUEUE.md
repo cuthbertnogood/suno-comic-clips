@@ -4,7 +4,7 @@
 - YouTube: [Andrey Lezhnin (CutNoGood)](https://www.youtube.com/channel/UCM3uC4R7HIQ3Ae8Op1YvPBw)
 - Rutube: [канал Cicada 3301](https://rutube.ru/channel/32073528/), [плейлист комикс-клипов](https://rutube.ru/plst/1844039)
 
-Обновлено: 13.10.2026 ~13:17 МСК
+Обновлено: 13.10.2026 ~22:10 МСК
 
 | Обложка | № | Трек | Ссылка Suno | Клип (кто сделал) | Файл | YouTube (кто загрузил, ссылка, дата) | Rutube (статус) | Статус |
 |---|---|---|---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | <img src="covers/08_lada-7-mln.jpg" width="120"> | 8 | Lada за семь миллионов | https://suno.com/s/YE8tiPAOKggoVTKa | Suno2 | /workspace/rutube_clips/Lada_za_sem_millionov.mp4 | Suno (Grok Bot), [YouTube](https://youtu.be/71Sn6xhQyKU), 10–13.10.2026 | Rutube agent, [Rutube](https://rutube.ru/video/705afed030bb598d0ed87ddb85d18527/), 13.10.2026, в плейлисте | загружено YouTube и Rutube |
 | <img src="covers/09_vse-dengi-light.jpg" width="120"> | 9 | Все ваши деньги в безопасности (светлая версия) | https://suno.com/s/bSWlCYtZGrztuhrL | Suno2 | /workspace/rutube_clips/Vse_vashi_dengi_light.mp4 | Suno (Grok Bot), [YouTube](https://youtu.be/6LttrPOD7-Q), 10–13.10.2026 | Rutube agent, [Rutube](https://rutube.ru/video/848affefdefbd7a20d418350c70322db/), 13.10.2026, в плейлисте | загружено YouTube и Rutube |
 | <img src="covers/10_entspann-dich-baby.jpg" width="120"> | 10 | Entspann dich, Baby | https://suno.com/song/94729fb9-2c72-429a-9a87-e516928ee8e6 | Suno2 | /workspace/comic_clip/clip_09_entspann_dich.mp4 | — | Rutube agent, [Rutube](https://rutube.ru/video/498a00d2ef423b4403197a6e831aac27/), 13.10.2026, в плейлисте | загружено Rutube (YouTube лимит 13.10) |
-| <img src="covers/11_lunnyj-priliv.jpg" width="120"> | 11 | Лунный Прилив (Moonwave 2026 Mix) | https://suno.com/song/2b71836b-4d54-4f21-ad8a-eed72a2036f9 | Suno2 | /workspace/comic_clip/clip_10_lunnyj_priliv.mp4 | — | — | комикс готов |
+| <img src="covers/11_lunnyj-priliv.jpg" width="120"> | 11 | Лунный Прилив (Moonwave 2026 Mix) | https://suno.com/song/2b71836b-4d54-4f21-ad8a-eed72a2036f9 | Suno2 | /workspace/comic_clip/clip_10_lunnyj_priliv.mp4 | — | Rutube agent, [Rutube](https://rutube.ru/video/b829a2b4d0d4641bd0f7aed0759dd170/), 13.10.2026, в плейлисте | загружено Rutube |
 | <img src="covers/12_kapli-minimal.jpg" width="120"> | 12 | Капли (минимал) | https://suno.com/song/a2c5d633-1a25-489f-9c88-b5418bd9ba1f | Suno2 | /workspace/comic_clip/clip_11_kapli.mp4 | — | — | комикс готов |
 | <img src="covers/13_derzhava-2025.jpg" width="120"> | 13 | Держава-2025 (Remastered 5) - public One (Remastered) | https://suno.com/song/4c1996d7-3f21-44b7-acc9-2d549475997b | Suno2 | /workspace/comic_clip/clip_12_derzhava.mp4 | — | — | комикс готов |
 | <img src="covers/14_my-kapli.jpg" width="120"> | 14 | Мы капли, что познали море (Remastered x2) | https://suno.com/song/a33a088d-b108-4f89-a71b-14bfc6d571fb | Suno2 | /workspace/comic_clip/clip_13_my_kapli.mp4 | — | — | комикс готов |
