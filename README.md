@@ -14,6 +14,7 @@
 | 08 | Lada за семь миллионов | [08-lada-za-sem-millionov](08-lada-za-sem-millionov/) | [lada-za-sem-millionov-v1](https://github.com/cuthbertnogood/suno-comic-clips/releases/tag/lada-za-sem-millionov-v1) |
 | 09 | Все ваши деньги в безопасности (светлая версия) | [09-vse-dengi-v-bezopasnosti-light](09-vse-dengi-v-bezopasnosti-light/) | [vse-dengi-v-bezopasnosti-light-v1](https://github.com/cuthbertnogood/suno-comic-clips/releases/tag/vse-dengi-v-bezopasnosti-light-v1) |
 | 10 | Entspann dich, Baby | [10-entspann-dich-baby](10-entspann-dich-baby/) | [entspann-dich-baby-v1](https://github.com/cuthbertnogood/suno-comic-clips/releases/tag/entspann-dich-baby-v1) |
+| 11 | Лунный Прилив (Moonwave 2026 Mix) | [11_lunnyj-priliv](11_lunnyj-priliv/) | [lunnyj-priliv-v1](https://github.com/cuthbertnogood/suno-comic-clips/releases/tag/lunnyj-priliv-v1) |
 
 Персонажи вымышленные; реальные логотипы и символы не используются.
 
