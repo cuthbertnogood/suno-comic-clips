@@ -20,6 +20,8 @@
 | 13 | Держава-2025 | [13_derzhava](13_derzhava/) | [derzhava-v1](https://github.com/cuthbertnogood/suno-comic-clips/releases/tag/derzhava-v1) |
 | 14 | Мы капли, что познали море | [14_my-kapli-chto-poznali-more](14_my-kapli-chto-poznali-more/) | [my-kapli-v1](https://github.com/cuthbertnogood/suno-comic-clips/releases/tag/my-kapli-v1) |
 | 15 | The flute lullaby | [15_flute-lullaby](15_flute-lullaby/) | [flute-lullaby-v1](https://github.com/cuthbertnogood/suno-comic-clips/releases/tag/flute-lullaby-v1) |
+| 16 | Цифровой концлагерь (РКН микс) | [16_cifrovoj-konclager](16_cifrovoj-konclager/) | [cifrovoj-konclager-v1](https://github.com/cuthbertnogood/suno-comic-clips/releases/tag/cifrovoj-konclager-v1) |
+| 17 | Sun in the East (Deep House Mix) | [17_sun-in-the-east](17_sun-in-the-east/) | [sun-in-the-east-v1](https://github.com/cuthbertnogood/suno-comic-clips/releases/tag/sun-in-the-east-v1) |
 Персонажи вымышленные; реальные логотипы и символы не используются.
 
 ## Очередь загрузок
