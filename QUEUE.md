@@ -1,6 +1,6 @@
 # Очередь загрузок комикс-клипов CutNoGood
 
-Обновлено: 13.10.2026 (МСК)
+Обновлено: 13.10.2026 ~11:45 МСК (загрузка YouTube отложена: суточный лимит)
 
 | Обложка | № | Трек | Ссылка Suno | Клип (кто сделал) | Файл | YouTube (кто загрузил, ссылка, дата) | Rutube (статус) | Статус |
 |---|---|---|---|---|---|---|---|---|
@@ -13,12 +13,12 @@
 | <img src="covers/07_vse-dengi.jpg" width="120"> | 7 | Все ваши деньги в безопасности | https://suno.com/s/yfJkqbNwnVQwUbtr | Suno2 | /workspace/rutube_clips/Vse_vashi_dengi_v_bezopasnosti.mp4 | Suno (Grok Bot), https://youtu.be/K3sY7NTmFaE, 10–13.10.2026 | загружено Rutube agent, https://rutube.ru/video/697f0b73ab3f7a8966c326d622f7e51f/, 12.10.2026, в плейлисте https://rutube.ru/plst/1844039; исправленная v2: https://rutube.ru/video/fc5fae79145f07da6923144434d362ce/, 13.10.2026 | загружено YouTube и Rutube |
 | <img src="covers/08_lada-7-mln.jpg" width="120"> | 8 | Lada за семь миллионов | https://suno.com/s/YE8tiPAOKggoVTKa | Suno2 | /workspace/rutube_clips/Lada_za_sem_millionov.mp4 | Suno (Grok Bot), https://youtu.be/71Sn6xhQyKU, 10–13.10.2026 | загружено Rutube agent, https://rutube.ru/video/5b8c957b3a6808df4067c888dc5b5e7b/, 12.10.2026, в плейлисте https://rutube.ru/plst/1844039; исправленная v2: https://rutube.ru/video/705afed030bb598d0ed87ddb85d18527/, 13.10.2026 | загружено YouTube и Rutube |
 | <img src="covers/09_vse-dengi-light.jpg" width="120"> | 9 | Все ваши деньги в безопасности (светлая версия) | https://suno.com/s/bSWlCYtZGrztuhrL | Suno2 | /workspace/rutube_clips/Vse_vashi_dengi_light.mp4 | Suno (Grok Bot), https://youtu.be/6LttrPOD7-Q, 10–13.10.2026 | загружено Rutube agent, https://rutube.ru/video/a38645a8959825e40a883774d1ef30ae/, 12.10.2026, в плейлисте https://rutube.ru/plst/1844039; исправленная v2: https://rutube.ru/video/848affefdefbd7a20d418350c70322db/, 13.10.2026 | загружено YouTube и Rutube |
-| <img src="covers/10_entspann-dich-baby.jpg" width="120"> | 10 | Entspann dich, Baby | https://suno.com/song/94729fb9-2c72-429a-9a87-e516928ee8e6 | Suno2 | /workspace/comic_clip/clip_09_entspann_dich.mp4 | Suno (Grok Bot), загружается сейчас | — | загружается на YouTube |
+| <img src="covers/10_entspann-dich-baby.jpg" width="120"> | 10 | Entspann dich, Baby | https://suno.com/song/94729fb9-2c72-429a-9a87-e516928ee8e6 | Suno2 | /workspace/comic_clip/clip_09_entspann_dich.mp4 | — | — | комикс готов (YouTube лимит 13.10) |
 | <img src="covers/11_lunnyj-priliv.jpg" width="120"> | 11 | Лунный Прилив (Moonwave 2026 Mix) | https://suno.com/song/2b71836b-4d54-4f21-ad8a-eed72a2036f9 | Suno2 | /workspace/comic_clip/clip_10_lunnyj_priliv.mp4 | — | — | комикс готов |
-| <img src="covers/12_kapli-minimal.jpg" width="120"> | 12 | Капли (минимал) | https://suno.com/song/a2c5d633-1a25-489f-9c88-b5418bd9ba1f | Suno2 | comic_inputs/11 | — | — | в очереди на комикс |
-| <img src="covers/13_derzhava-2025.jpg" width="120"> | 13 | Держава-2025 (Remastered 5) - public One (Remastered) | https://suno.com/song/4c1996d7-3f21-44b7-acc9-2d549475997b | Suno2 | comic_inputs/12 | — | — | в очереди на комикс |
+| <img src="covers/12_kapli-minimal.jpg" width="120"> | 12 | Капли (минимал) | https://suno.com/song/a2c5d633-1a25-489f-9c88-b5418bd9ba1f | Suno2 | /workspace/comic_clip/clip_11_kapli.mp4 | — | — | комикс готов |
+| <img src="covers/13_derzhava-2025.jpg" width="120"> | 13 | Держава-2025 (Remastered 5) - public One (Remastered) | https://suno.com/song/4c1996d7-3f21-44b7-acc9-2d549475997b | Suno2 | /workspace/comic_clip/clip_12_derzhava.mp4 | — | — | комикс готов |
 | <img src="covers/14_my-kapli.jpg" width="120"> | 14 | Мы капли, что познали море (Remastered x2) | https://suno.com/song/a33a088d-b108-4f89-a71b-14bfc6d571fb | Suno2 | /workspace/comic_clip/clip_13_my_kapli.mp4 | — | — | комикс готов |
-| <img src="covers/15_flute-lullaby.jpg" width="120"> | 15 | The flute lullaby | https://suno.com/song/03970ecd-99a6-4275-8037-6ae2c855345d | Suno2 | comic_inputs/14 | — | — | в очереди на комикс |
+| <img src="covers/15_flute-lullaby.jpg" width="120"> | 15 | The flute lullaby | https://suno.com/song/03970ecd-99a6-4275-8037-6ae2c855345d | Suno2 | /workspace/comic_clip/clip_14_flute_lullaby.mp4 | — | — | комикс готов |
 | <img src="covers/16_cifrovoj-konclager.jpg" width="120"> | 16 | Цифровой концлагерь (РКН микс) | https://suno.com/song/053f8ea0-9dbe-42c9-83f1-c2b4a25b9f30 | Suno2 | /workspace/comic_clip/clip_15_cifrovoj_konclager.mp4 | — | — | комикс готов |
 | <img src="covers/17_sun-in-the-east.jpg" width="120"> | 17 | Sun in the East (Deep House Mix) | https://suno.com/song/efe0ab7d-da38-45bc-b349-dfb28c667a0d | Suno2 | /workspace/comic_clip/clip_16_sun_in_the_east.mp4 | — | — | комикс готов |
 | <img src="covers/18_katafalk-budushchego.jpg" width="120"> | 18 | Катафалк Будущего | https://suno.com/song/126691ec-8476-47bf-86c1-3f5f141b17ae | Suno2 | /workspace/comic_clip/clip_17_katafalk.mp4 | — | — | комикс готов |
