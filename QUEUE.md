@@ -1,6 +1,6 @@
 # Очередь загрузок комикс-клипов CutNoGood
 
-Обновлено: 13.10.2026 ~12:27 МСК
+Обновлено: 13.10.2026 ~12:34 МСК
 
 | Обложка | № | Трек | Ссылка Suno | Клип (кто сделал) | Файл | YouTube (кто загрузил, ссылка, дата) | Rutube (статус) | Статус |
 |---|---|---|---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | <img src="covers/22_derzhava-6.jpg" width="120"> | 22 | Держава-6 (Remastered x3) - public One | https://suno.com/song/cce8343a-9f8b-49dc-b9c6-3a5d1a53e29f | Suno2 | /workspace/comic_clip/clip_21_derzhava6.mp4 | — | — | комикс готов |
 | <img src="covers/23_mozhem-a-zachem.jpg" width="120"> | 23 | Можем, а зачем? | https://suno.com/song/9e7d4ebf-e2b9-4271-98f4-30d35c1699ee | Suno2 | /workspace/comic_clip/clip_22_mozhem_a_zachem.mp4 | — | — | комикс готов |
 | <img src="covers/24_vybory.jpg" width="120"> | 24 | Выборы выборы … кандидаты …  | https://suno.com/song/cd2798c7-fd8a-4e19-8ede-559fdcb028f6 | Suno2 | /workspace/comic_clip/clip_23_vybory.mp4 | — | — | комикс готов |
-| <img src="covers/25_kapli-rework.jpg" width="120"> | 25 | Капли (rework number 3-2-1) (Remastered) | https://suno.com/song/b4f3c5ca-97d8-43a9-8d42-0de6a57864a9 | Suno2 | comic_inputs/24 | — | — | в очереди на комикс |
+| <img src="covers/25_kapli-rework.jpg" width="120"> | 25 | Капли (rework number 3-2-1) (Remastered) | https://suno.com/song/b4f3c5ca-97d8-43a9-8d42-0de6a57864a9 | Suno2 | /workspace/comic_clip/clip_24_kapli_rework.mp4 | — | — | комикс готов |
 | <img src="covers/26_paren-ne-promah.jpg" width="120"> | 26 | Парень не проМАХ (Х - это «Ха») | https://suno.com/song/c5fdf0a4-e38b-49be-979f-b1c9aa9b7ccf | Suno2 | comic_inputs/26 | — | — | в очереди на комикс |
 | <img src="covers/27_vysshee.jpg" width="120"> | 27 | Высшее | https://suno.com/song/3111ee7f-2f61-4064-888b-aa54c9a7dfe5 | Suno2 | comic_inputs/27 | — | — | в очереди на комикс |
 | <img src="covers/28_chaplin-message.jpg" width="120"> | 28 | Charlie Chaplin - A message to humanity (russian version) | https://suno.com/song/63efd42e-90ad-4db3-b7b9-047f0e085eef | Suno2 | comic_inputs/28 | — | — | в очереди на комикс |
