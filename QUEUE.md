@@ -4,7 +4,7 @@
 - YouTube: [Andrey Lezhnin (CutNoGood)](https://www.youtube.com/channel/UCM3uC4R7HIQ3Ae8Op1YvPBw)
 - Rutube: [канал Cicada 3301](https://rutube.ru/channel/32073528/), [плейлист комикс-клипов](https://rutube.ru/plst/1844039)
 
-Обновлено: 13.10.2026 ~22:15 МСК
+Обновлено: 14.10.2026 ~01:35 МСК
 
 | Обложка | № | Трек | Ссылка Suno | Клип (кто сделал) | Файл | YouTube (кто загрузил, ссылка, дата) | Rutube (статус) | Статус |
 |---|---|---|---|---|---|---|---|---|
@@ -39,3 +39,4 @@
 | <img src="covers/29_bez-pauz-tolko-bas.jpg" width="120"> | 29 | Без пауз… только Бас…. Wayne and Del | https://suno.com/song/c79f7fc5-e67f-48a2-8cf0-c9963f7530d2 | Suno2 | /workspace/comic_clip/clip_30_bez-pauz.mp4 | — | — | комикс готов |
 | <img src="covers/30_oreshkin.jpg" width="120"> | 30 | Орешкин и его интернет | https://suno.com/song/41dc6949-6d41-4922-9a58-9d7f0d3c9923 | Suno2 | /workspace/comic_clip/clip_31_oreshkin-internet.mp4 | — | пропуск на Rutube (решение Андрея 13.10: политический риск) | комикс готов |
 | <img src="covers/31_prisyaga.jpg" width="120"> | 31 | Присяга - Россия - СССР - Россия | https://suno.com/song/cf8dc535-652e-4c77-a4df-fadb281062a6 | — | — | — | — | пропуск: аудио недоступно |
+| <img src="covers/32_ferma-v-podvale.jpg" width="120"> | 32 | Ферма в подвале | https://suno.com/song/c755ebed-9482-4440-8e07-b2cf36af8566 | Suno2 | /workspace/comic_clip/clip_32_ferma-v-podvale.mp4 | — | для Rutube (Orchestrator) | комикс готов (Rutube, не YouTube-очередь) |
