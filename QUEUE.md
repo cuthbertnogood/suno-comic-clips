@@ -4,7 +4,7 @@
 - YouTube: [Andrey Lezhnin (CutNoGood)](https://www.youtube.com/channel/UCM3uC4R7HIQ3Ae8Op1YvPBw)
 - Rutube: [канал Cicada 3301](https://rutube.ru/channel/32073528/), [плейлист комикс-клипов](https://rutube.ru/plst/1844039)
 
-Обновлено: 14.10.2026 ~12:05 МСК
+Обновлено: 14.10.2026 ~12:10 МСК
 
 | Обложка | № | Трек | Ссылка Suno | Клип (кто сделал) | Файл | YouTube (кто загрузил, ссылка, дата) | Rutube (статус) | Статус |
 |---|---|---|---|---|---|---|---|---|
@@ -44,3 +44,4 @@
 | <img src="covers/34_alisa-chto-ne-tak.jpg" width="120"> | 34 | Алиса, что не так? | https://suno.com/song/15398379-c2b4-4a0d-9149-8426cfcc7ba0 | Suno2 | /workspace/comic_clip/clip_34_alisa-chto-ne-tak.mp4 | — | Rutube agent, [Rutube](https://rutube.ru/video/52abb620be3624792dfa1f5ce81d1cc2/), 14.10.2026, в плейлисте | Источник: [t.me/pezduza/19436](https://t.me/pezduza/19436) — «— Алиса, расскажи чем плоха монополия / — Простите, сервисы Яндекса временно не работают». Трек [Suno](https://suno.com/song/15398379-c2b4-4a0d-9149-8426cfcc7ba0). комикс готов (Rutube, не YouTube-очередь) |
 | <img src="covers/35_kripta-v-lombarde.jpg" width="120"> | 35 | Крипта в ломбарде | https://suno.com/song/ad8fc8b1-00b9-4043-9723-fb2ba3d3232f | Suno2 | /workspace/comic_clip/clip_35_kripta-v-lombarde.mp4 | — | [Rutube](https://rutube.ru/video/69cd0f5ef5f71481ee004a981ac02588/) | Источник: [t.me/banki_oil/54901](https://t.me/banki_oil/54901) — «Россияне смогут заложить крипту в ломбарде… при просрочке их сразу продадут» (Известия/ЦБ). Трек [Suno](https://suno.com/song/ad8fc8b1-00b9-4043-9723-fb2ba3d3232f). комикс готов (Rutube, не YouTube-очередь) |
 | <img src="covers/36_posledniy-data-centr.jpg" width="120"> | 36 | Последний дата-центр | https://suno.com/song/284dc9bc-a8d6-4aac-bc2b-8e506fc57111 | Suno2 | /workspace/comic_clip/clip_36_posledniy-data-centr.mp4 | — | [Rutube](https://rutube.ru/video/9e7b327a3ffb7d7266da531febbc11e1/) | Источник: [t.me/pezduza/19440](https://t.me/pezduza/19440) — «Выживший таксист Яндекса защищает последний дата-центр». Трек [Suno](https://suno.com/song/284dc9bc-a8d6-4aac-bc2b-8e506fc57111). комикс готов (Rutube, не YouTube-очередь) |
+| <img src="covers/37_pyatdesyat-vtoraya-voyna.jpg" width="120"> | 37 | Пятьдесят вторая война | https://suno.com/song/337296b8-3851-40ac-9e15-117de4137c21 | Suno2 | /workspace/comic_clip/clip_37_pyatdesyat-vtoraya-voyna.mp4 | — | для Rutube (Orchestrator) | Источник: [t.me/pezduza/19443](https://t.me/pezduza/19443) — «6-летний я, когда 52-я война между бежевыми и зелеными солдатиками начинает заканчиваться». Трек [Suno](https://suno.com/song/337296b8-3851-40ac-9e15-117de4137c21). комикс готов (Rutube, не YouTube-очередь) |
