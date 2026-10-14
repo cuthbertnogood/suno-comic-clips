@@ -4,7 +4,7 @@
 - YouTube: [Andrey Lezhnin (CutNoGood)](https://www.youtube.com/channel/UCM3uC4R7HIQ3Ae8Op1YvPBw)
 - Rutube: [канал Cicada 3301](https://rutube.ru/channel/32073528/), [плейлист комикс-клипов](https://rutube.ru/plst/1844039)
 
-Обновлено: 14.10.2026 ~16:55 МСК
+Обновлено: 14.10.2026 ~18:05 МСК
 
 | Обложка | № | Трек | Ссылка Suno | Клип (кто сделал) | Файл | YouTube (кто загрузил, ссылка, дата) | Rutube (статус) | Статус |
 |---|---|---|---|---|---|---|---|---|
@@ -48,3 +48,4 @@
 | <img src="covers/38_peregovory-vtroyom.jpg" width="120"> | 38 | Переговоры втроём | https://suno.com/song/67433a9b-a2eb-4c67-88e8-8a7e208f39b6 | Suno2 | /workspace/comic_clip/clip_38_peregovory-vtroyom.mp4 | — | [Rutube](https://rutube.ru/video/67be2eacaf42385c23f99645499ac0a7/) | Источник: [t.me/pezduza/19444](https://t.me/pezduza/19444) — «⚡️Переговоры по поводу энергетического соглашения России и Украины» (трое одинаковых мужчин на картинке). Герой — вымышленный дипломат. Трек [Suno](https://suno.com/song/67433a9b-a2eb-4c67-88e8-8a7e208f39b6). комикс готов (Rutube, не YouTube-очередь) |
 | <img src="covers/39_stabilno.jpg" width="120"> | 39 | Стабильно | https://suno.com/song/8de228b4-94a9-4861-bfb1-c860b236c1af | Suno2 | /workspace/comic_clip/clip_39_stabilno.mp4 | — | пропуск (решение Андрея) | Источник: [t.me/pezduza/19445](https://t.me/pezduza/19445) — «⚡️Несмотря на массовые сбои в российском интернете, мессенджер МАХ продолжает работать стабильно у***но». Трек [Suno](https://suno.com/song/8de228b4-94a9-4861-bfb1-c860b236c1af). комикс готов (Rutube, не YouTube-очередь) |
 | <img src="covers/40_prosto-muzhik.jpg" width="120"> | 40 | Просто мужик | https://suno.com/song/b48decbd-a194-4674-b679-b0ae974aeba6 | Suno2 | /workspace/comic_clip/clip_40_prosto-muzhik.mp4 | — | [Rutube](https://rutube.ru/video/aad7bd602f65fad8b27d5e28ab22de11/) | Источник: [t.me/pezduza/19446](https://t.me/pezduza/19446) — «⚡️Мужчина из Восточной Европы заявил, что готов стать президентом Украины и подписать мирное соглашение». Герой — вымышленный простой деревенский мужик. Трек [Suno](https://suno.com/song/b48decbd-a194-4674-b679-b0ae974aeba6). комикс готов (Rutube, не YouTube-очередь) |
+| <img src="covers/41_pyatsot-terabayt.jpg" width="120"> | 41 | Пятьсот терабайт | https://suno.com/song/371d750c-a876-4642-b38a-95c3b22a8b8d | Suno2 | /workspace/comic_clip/clip_41_pyatsot-terabayt.mp4 | — | — | Источник: [t.me/pezduza/19449](https://t.me/pezduza/19449) — ««США закупят у России 500 Тб на Яндекс Диске». Трамп призвал Украину перестать наносить удары по дата-центрам». Герой — вымышленный шоумен в белом смокинге. Трек [Suno](https://suno.com/song/371d750c-a876-4642-b38a-95c3b22a8b8d). комикс готов (Rutube, не YouTube-очередь) |
