@@ -4,7 +4,7 @@
 - YouTube: [Andrey Lezhnin (CutNoGood)](https://www.youtube.com/channel/UCM3uC4R7HIQ3Ae8Op1YvPBw)
 - Rutube: [канал Cicada 3301](https://rutube.ru/channel/32073528/), [плейлист комикс-клипов](https://rutube.ru/plst/1844039)
 
-Обновлено: 14.10.2026 ~13:10 МСК
+Обновлено: 14.10.2026 ~14:05 МСК
 
 | Обложка | № | Трек | Ссылка Suno | Клип (кто сделал) | Файл | YouTube (кто загрузил, ссылка, дата) | Rutube (статус) | Статус |
 |---|---|---|---|---|---|---|---|---|
@@ -46,3 +46,4 @@
 | <img src="covers/36_posledniy-data-centr.jpg" width="120"> | 36 | Последний дата-центр | https://suno.com/song/284dc9bc-a8d6-4aac-bc2b-8e506fc57111 | Suno2 | /workspace/comic_clip/clip_36_posledniy-data-centr.mp4 | — | [Rutube](https://rutube.ru/video/9e7b327a3ffb7d7266da531febbc11e1/) | Источник: [t.me/pezduza/19440](https://t.me/pezduza/19440) — «Выживший таксист Яндекса защищает последний дата-центр». Трек [Suno](https://suno.com/song/284dc9bc-a8d6-4aac-bc2b-8e506fc57111). комикс готов (Rutube, не YouTube-очередь) |
 | <img src="covers/37_pyatdesyat-vtoraya-voyna.jpg" width="120"> | 37 | Пятьдесят вторая война | https://suno.com/song/337296b8-3851-40ac-9e15-117de4137c21 | Suno2 | /workspace/comic_clip/clip_37_pyatdesyat-vtoraya-voyna.mp4 | — | [Rutube](https://rutube.ru/video/f1b5597bb5325232c7e86b1c61285680/) | Источник: [t.me/pezduza/19443](https://t.me/pezduza/19443) — «6-летний я, когда 52-я война между бежевыми и зелеными солдатиками начинает заканчиваться». Трек [Suno](https://suno.com/song/337296b8-3851-40ac-9e15-117de4137c21). комикс готов (Rutube, не YouTube-очередь) |
 | <img src="covers/38_peregovory-vtroyom.jpg" width="120"> | 38 | Переговоры втроём | https://suno.com/song/67433a9b-a2eb-4c67-88e8-8a7e208f39b6 | Suno2 | /workspace/comic_clip/clip_38_peregovory-vtroyom.mp4 | — | [Rutube](https://rutube.ru/video/67be2eacaf42385c23f99645499ac0a7/) | Источник: [t.me/pezduza/19444](https://t.me/pezduza/19444) — «⚡️Переговоры по поводу энергетического соглашения России и Украины» (трое одинаковых мужчин на картинке). Герой — вымышленный дипломат. Трек [Suno](https://suno.com/song/67433a9b-a2eb-4c67-88e8-8a7e208f39b6). комикс готов (Rutube, не YouTube-очередь) |
+| <img src="covers/39_stabilno.jpg" width="120"> | 39 | Стабильно | https://suno.com/song/8de228b4-94a9-4861-bfb1-c860b236c1af | Suno2 | /workspace/comic_clip/clip_39_stabilno.mp4 | — | для Rutube (Orchestrator) | Источник: [t.me/pezduza/19445](https://t.me/pezduza/19445) — «⚡️Несмотря на массовые сбои в российском интернете, мессенджер МАХ продолжает работать стабильно у***но». Трек [Suno](https://suno.com/song/8de228b4-94a9-4861-bfb1-c860b236c1af). комикс готов (Rutube, не YouTube-очередь) |
