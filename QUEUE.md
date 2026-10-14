@@ -4,7 +4,7 @@
 - YouTube: [Andrey Lezhnin (CutNoGood)](https://www.youtube.com/channel/UCM3uC4R7HIQ3Ae8Op1YvPBw)
 - Rutube: [канал Cicada 3301](https://rutube.ru/channel/32073528/), [плейлист комикс-клипов](https://rutube.ru/plst/1844039)
 
-Обновлено: 14.10.2026 ~21:47 МСК
+Обновлено: 14.10.2026 ~22:37 МСК
 
 | Обложка | № | Трек | Ссылка Suno | Клип (кто сделал) | Файл | YouTube (кто загрузил, ссылка, дата) | Rutube (статус) | Статус |
 |---|---|---|---|---|---|---|---|---|
@@ -51,3 +51,4 @@
 | <img src="covers/41_pyatsot-terabayt.jpg" width="120"> | 41 | Пятьсот терабайт | https://suno.com/song/371d750c-a876-4642-b38a-95c3b22a8b8d | Suno2 | /workspace/comic_clip/clip_41_pyatsot-terabayt.mp4 | — | [Rutube v2](https://rutube.ru/video/c24dd705c2e504747e132447f9c38b3c/) | Источник: [t.me/pezduza/19449](https://t.me/pezduza/19449) — ««США закупят у России 500 Тб на Яндекс Диске». Трамп призвал Украину перестать наносить удары по дата-центрам». Герой — вымышленный шоумен в белом смокинге. Трек [Suno](https://suno.com/song/371d750c-a876-4642-b38a-95c3b22a8b8d). комикс готов (Rutube, не YouTube-очередь) |
 | <img src="covers/42_moskva-xxi-vek.jpg" width="120"> | 42 | Москва, ХХI век | https://suno.com/song/64dd6d77-90aa-450b-aa9f-f66114cb9ac3 | Suno2 | /workspace/comic_clip/clip_43_moskva-xxi-vek.mp4 | — | [Rutube v2](https://rutube.ru/video/db8b68ded4e21f599cc563a01cfccc13/) | Источник: [t.me/pezduza/19452](https://t.me/pezduza/19452) — мем: два пещерных человека у костра, «Может суши закажем?» — «Х*юши, Яндекс разъ*бали». Трек [Suno](https://suno.com/song/64dd6d77-90aa-450b-aa9f-f66114cb9ac3). комикс готов (Rutube, не YouTube-очередь) |
 | <img src="covers/43_plashka-32.jpg" width="120"> | 43 | Плашка на тридцать два | https://suno.com/song/9f9832ec-e2ec-4271-b586-babee9476a6d | Suno2 | /workspace/comic_clip/clip_44_plashka-32.mp4 | — | — | Источник: [t.me/pezduza/19453](https://t.me/pezduza/19453) — «сатира: Трамп, оперативка, датацентры, Путин шлёт плашку 32 ГБ» Трек [Suno](https://suno.com/song/9f9832ec-e2ec-4271-b586-babee9476a6d). Персонажи вымышленные. комикс готов (Rutube, не YouTube-очередь) |
+| <img src="covers/44_tramp-i-ilon.jpg" width="120"> | 44 | Трамп и Илон | https://suno.com/song/5cf9f458-2d59-4193-b46d-4adf00a66a24 | Suno2 | /workspace/comic_clip/clip_45_tramp-i-ilon.mp4 | — | — | Источник: [t.me/pezduza/19456](https://t.me/pezduza/19456) — «сатира: бахвальный политик пересказывает разговор с изобретателем про спутники; персонажи комикса вымышленные» Трек [Suno](https://suno.com/song/5cf9f458-2d59-4193-b46d-4adf00a66a24). EQ overlay eq-h=360, без чёрной плашки; check_45.png OK комикс готов (Rutube, не YouTube-очередь) |
