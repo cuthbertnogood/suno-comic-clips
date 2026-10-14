@@ -2,7 +2,7 @@
 
 ## Источник
 
-- Поста-источника не было: текст написал **Song_text_gen**.
+- Пост: https://t.me/whackdoor/32188
 - Трек Suno: https://suno.com/song/c755ebed-9482-4440-8e07-b2cf36af8566
 
 Клип в стиле **Sin City / noir comic** на песню Андрея **«Ферма в подвале»** ([Suno](https://suno.com/song/c755ebed-9482-4440-8e07-b2cf36af8566)).
