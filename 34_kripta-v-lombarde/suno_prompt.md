@@ -1,0 +1,66 @@
+# Suno prompt — Крипта в ломбарде
+
+Источник: метаданные трека Suno https://suno.com/song/ad8fc8b1-00b9-4043-9723-fb2ba3d3232f (comic_inputs/35.json), модель v6.
+
+## Title
+
+Крипта в ломбарде
+
+## Style
+
+Chanson-trap, raspy male half-sung vocal with clear Russian pronunciation and correct syllable stress; gritty production with a cash register hit; 140 BPM half-time groove; dark street piano, heavy 808 bass, crisp trap hi-hats, recurring accordion loop, catchy melancholic hook.
+
+## Lyrics
+
+```
+[Intro | spoken | street piano, cash register sound]
+Здрасте. Принимаете... биткоины?
+
+[Verse 1 | raspy male vocal, storytelling]
+Раньше несли в ломбард цепь да кольцо,
+А теперь прихожу — с кошельком в лицо.
+Известия пишут, ЦБ даст добро,
+Заложу монеты — и возьму бабло.
+
+[Pre-Chorus | building intensity]
+Оценщик смотрит в график, чешет лоб,
+Даёт половину — и скажи спасибо, чтоб...
+
+[Chorus | catchy melancholic hook, accordion, heavy 808]
+Крипта в ломбарде, крипта в ломбарде,
+Жду я роста, как весны в марте.
+Если просрочу хоть на денёк —
+Продадут мои монеты, и прощай, дружок~~
+
+[Verse 2 | raspy male vocal, ironic]
+Холдил честно, верил в луну,
+А теперь стою у решётки в очереди одну.
+Рядом бабка с серьгами, парень с айфоном,
+А я с сид-фразой — и с надеждой на миллионы.
+
+[Pre-Chorus | building intensity]
+График вниз, и сердце вниз, срок идёт,
+Ломбард не ждёт — он сразу продаёт...
+
+[Chorus | catchy melancholic hook, accordion, heavy 808]
+Крипта в ломбарде, крипта в ломбарде,
+Жду я роста, как весны в марте.
+Если просрочу хоть на денёк —
+Продадут мои монеты, и прощай, дружок~~
+
+[Bridge | half-time, lone piano, spoken]
+Займ пониже рынка, процент повыше неба,
+Хотел на луну — а хватило на хлеба.
+Но я верю: завтра памп, завтра рассвет...
+А ломбард отвечает: «Просрочка. Монет нет».
+
+[Final Chorus | key change, stacked vocals, long held notes]
+Крипта в ломбарде, крипта в ломбарде,
+Жду я роста, как весны в марте~~
+Если просрочу хоть на денёк —
+Продадут мои монеты, и прощай, дружок~~
+
+[Outro | spoken, piano fades]
+Следующий!
+[End]
+```

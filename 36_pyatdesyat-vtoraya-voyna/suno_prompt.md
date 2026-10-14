@@ -1,0 +1,56 @@
+# Suno prompt — Пятьдесят вторая война
+
+Источник: метаданные трека Suno https://suno.com/song/337296b8-3851-40ac-9e15-117de4137c21 (comic_inputs/37.json), модель v6.
+
+## Title
+
+Пятьдесят вторая война
+
+## Style
+
+Parody war epic with toy piano, marching snare, orchestral brass, full choir, and epic drums; childlike male vocal shifting into dramatic delivery with precise Russian stress; cinematic nostalgic 90s production, 120 BPM marching pulse.
+
+## Lyrics
+
+```
+[Intro | toy piano, distant drum roll | spoken, child voice]
+Мам, я ещё не сплю! У меня война!
+
+[Verse 1 | childlike male vocal, marching snare]
+Ковёр — как поле, диван — как гора,
+Зелёные стоят ещё с утра.
+Бежевые в окопах из книгек и кубов,
+Пятьдесят вторая война — и никто не готов!
+
+[Chorus | epic orchestral brass, choir, explosive]
+Бежевые против зелёных —
+Дым и слава на ковре!
+Не заканчивайся, битва, прошу~~
+До ужина стоять в строю!
+
+[Verse 2 | dramatic male vocal, slower]
+Пал последний с базукою за тапок,
+Радист без подставки лежит набок.
+Кот прошёл — и целый взвод исчез,
+А в коридоре мама: «Убирай весь лес!»
+
+[Chorus | epic orchestral brass, choir, explosive]
+Бежевые против зелёных —
+Дым и слава на ковре!
+Не заканчивайся, битва, прошу~~
+До ужина стоять в строю!
+
+[Bridge | half-time, solo trumpet, spoken, tearful]
+Сержант, не уходи... ещё пять минут!
+Завтра начнём пятьдесят третью.
+
+[Final Chorus | key change, full choir, long held notes]
+Бежевые против зелёных —
+Дым и слава на ковре!~~
+Не заканчивайся, битва, прошу~~
+До ужина стоять в строю!
+
+[Outro | toy piano fades | spoken, mom voice]
+Ужинать!
+[End]
+```

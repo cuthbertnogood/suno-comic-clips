@@ -1,0 +1,87 @@
+# Suno prompt — Форма моего сердца. Бабочка.
+
+Источник: метаданные трека Suno https://suno.com/song/7475e90d-919e-42ec-a8f2-32a986fe230a (comic_inputs/01_butterfly.json), модель v5.5.
+
+## Title
+
+Форма моего сердца. Бабочка.
+
+## Style
+
+intimate 90s acoustic soft rock ballad, fingerstyle acoustic guitar with arpeggiated picking pattern throughout, subtle warm harmonica, minimal organic arrangement, warm analog-style production, introspective male vocals with slight rasp and emotional restrained delivery, melancholic yet sincere atmosphere, gentle dynamics, reflective philosophical mood, close to original Sting "Shape of My Heart" acoustic feel, natural acoustic space, soft fingerpicked guitar as main instrument
+
+## Lyrics
+
+```
+🦋─────────────────────────────🌸
+    ФЛЕШМОБ «НЕДЕЛЬНЫЙ ТРЕК» 🎤🌀✨
+
+    СПЕЦИАЛЬНО для тг канала t.me/suno_ru_team
+
+    ТЕМА ТЕКУЩЕЙ НЕДЕЛИ: Бабочка
+
+    СУТЬ:
+    Каждую неделю — новая музыкальная тема. У вас есть ровно 7 дней, чтобы создать и выложить трек, вдохновлённый этой темой.
+
+    ОБЯЗАТЕЛЬНОЕ УСЛОВИЕ: В тексте вашей песни должна быть строчка, содержащая слово «Бабочка»
+    🦋─────────────────────────────🌸
+
+
+[Verse 1]
+Он сдаёт карты в глубокой медитации,
+Те, кто играет, не знают о нём.
+Он не ради денег выигрыш берёт,
+Не ради почёта он в карты идёт.
+
+[Verse 2]
+Он сдаёт карты, чтоб правду найти,
+Геометрию случая в числах понять,
+Закон вероятности скрыт глубоко,
+И танец их кружит бабочку легко.
+
+[Chorus]
+Я знаю — пики это мечи солдата,
+Я знаю — трефы оружие войны,
+Я знаю — бубны это деньги и власть,
+Но форма сердца — не в этом, бабочка.
+
+[Verse 3]
+Он может валета бубён выложить,
+Даму пик на стол спокойно положить,
+Короля спрятать в руке утаить,
+Пока память о карте начинает таять.
+
+[Chorus]
+Я знаю — пики это мечи солдата,
+Я знаю — трефы оружие войны,
+Я знаю — бубны это деньги и власть,
+Но форма сердца — не в этом, бабочка.
+
+[Long Instrumental Break]
+Long emotional harmonica solo over delicate fingerstyle acoustic guitar, melancholic and beautiful melodic lines, slow expressive development, warm intimate atmosphere, extended instrumental section
+
+[Bridge]
+Это не форма моего сердца...
+Это не форма моего сердца...
+
+[Verse 4]
+И если бы я сказал тебе, что люблю,
+Ты, может быть, подумала бы — что-то не так.
+Я не человек с тысячами разных лиц,
+Одна-единственная маска у меня.
+
+[Verse 5]
+Те, кто болтает много, в итоге знают мало,
+И платят за это слишком дорогой ценой.
+Как те, кто тьму проклинает в отчаянии,
+И светом бывает внезапно поглощён.
+
+[Extended Instrumental]
+Extended beautiful instrumental section with harmonica and fingerstyle guitar, emotional interplay between instruments, gentle and introspective, melodic development, long atmospheric outro
+
+[Outro]
+Это форма моего сердца — бабочка,
+Это форма моего сердца, крылья бабочки,
+Это форма моего сердца — бабочка в полёте,
+Это форма моего сердца.
+```
