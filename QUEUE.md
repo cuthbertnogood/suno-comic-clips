@@ -4,7 +4,7 @@
 - YouTube: [Andrey Lezhnin (CutNoGood)](https://www.youtube.com/channel/UCM3uC4R7HIQ3Ae8Op1YvPBw)
 - Rutube: [канал Cicada 3301](https://rutube.ru/channel/32073528/), [плейлист комикс-клипов](https://rutube.ru/plst/1844039)
 
-Обновлено: 14.10.2026 ~18:05 МСК
+Обновлено: 14.10.2026 ~19:55 МСК
 
 | Обложка | № | Трек | Ссылка Suno | Клип (кто сделал) | Файл | YouTube (кто загрузил, ссылка, дата) | Rutube (статус) | Статус |
 |---|---|---|---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | <img src="covers/22_derzhava-6.jpg" width="120"> | 22 | Держава-6 (Remastered x3) - public One | https://suno.com/song/cce8343a-9f8b-49dc-b9c6-3a5d1a53e29f | Suno2 | /workspace/comic_clip/clip_21_derzhava6.mp4 | — | пропуск (решение Андрея) | комикс готов |
 | <img src="covers/23_mozhem-a-zachem.jpg" width="120"> | 23 | Можем, а зачем? | https://suno.com/song/9e7d4ebf-e2b9-4271-98f4-30d35c1699ee | Suno2 | /workspace/comic_clip/clip_22_mozhem_a_zachem.mp4 | — | [Rutube](https://rutube.ru/video/1c99a75db1ca5a5c11930a806c13ef1e/) | комикс готов |
 | <img src="covers/24_vybory.jpg" width="120"> | 24 | Выборы выборы … кандидаты …  | https://suno.com/song/cd2798c7-fd8a-4e19-8ede-559fdcb028f6 | Suno2 | /workspace/comic_clip/clip_23_vybory.mp4 | — | ожидает решения Андрея (полит. риск / нет текста) | комикс готов |
-| <img src="covers/25_kapli-rework.jpg" width="120"> | 25 | Капли (rework number 3-2-1) (Remastered) | https://suno.com/song/b4f3c5ca-97d8-43a9-8d42-0de6a57864a9 | Suno2 | /workspace/comic_clip/clip_24_kapli_rework.mp4 | — | — | комикс готов |
+| <img src="covers/25_kapli-rework.jpg" width="120"> | 25 | Капли (rework number 3-2-1) (Remastered) | https://suno.com/song/b4f3c5ca-97d8-43a9-8d42-0de6a57864a9 | Suno2 | /workspace/comic_clip/clip_24_kapli_rework.mp4 | — | Rutube agent, [Rutube](https://rutube.ru/video/885cf70c9eb99e1ac7eaae786fc16d88/), 14.10.2026, в плейлисте | загружено Rutube |
 | <img src="covers/26_paren-ne-promah.jpg" width="120"> | 26 | Парень не проМАХ (Х - это «Ха») | https://suno.com/song/c5fdf0a4-e38b-49be-979f-b1c9aa9b7ccf | Suno2 | /workspace/comic_clip/clip_26_paren_ne_promah.mp4 | — | ожидает решения Андрея (полит. риск / нет текста) | комикс готов |
 | <img src="covers/27_vysshee.jpg" width="120"> | 27 | Высшее | https://suno.com/song/3111ee7f-2f61-4064-888b-aa54c9a7dfe5 | Suno2 | /workspace/comic_clip/clip_27_vysshee.mp4 | — | ожидает решения Андрея (полит. риск / нет текста) | комикс готов |
 | <img src="covers/28_chaplin-message.jpg" width="120"> | 28 | Charlie Chaplin - A message to humanity (russian version) | https://suno.com/song/63efd42e-90ad-4db3-b7b9-047f0e085eef | Suno2 | /workspace/comic_clip/clip_28_chaplin_message.mp4 | — | ожидает решения Андрея (полит. риск / нет текста) | комикс готов |
