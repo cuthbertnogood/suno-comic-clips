@@ -4,7 +4,7 @@
 - YouTube: [Andrey Lezhnin (CutNoGood)](https://www.youtube.com/channel/UCM3uC4R7HIQ3Ae8Op1YvPBw)
 - Rutube: [канал Cicada 3301](https://rutube.ru/channel/32073528/), [плейлист комикс-клипов](https://rutube.ru/plst/1844039)
 
-Обновлено: 14.10.2026 ~22:51 МСК
+Обновлено: 14.10.2026 ~22:53 МСК
 
 | Обложка | № | Трек | Ссылка Suno | Клип (кто сделал) | Файл | YouTube (кто загрузил, ссылка, дата) | Rutube (статус) | Статус |
 |---|---|---|---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | <img src="covers/13_derzhava-2025.jpg" width="120"> | 13 | Держава-2025 (Remastered 5) - public One (Remastered) | https://suno.com/song/4c1996d7-3f21-44b7-acc9-2d549475997b | Suno2 | /workspace/rutube_clips/Derzhava_2025.mp4 | Suno (Grok Bot), [YouTube](https://youtu.be/exxQTu3o-Vw), 14.10.2026 | пропуск (решение Андрея) | загружено YouTube; Rutube пропуск |
 | <img src="covers/14_my-kapli.jpg" width="120"> | 14 | Мы капли, что познали море (Remastered x2) | https://suno.com/song/a33a088d-b108-4f89-a71b-14bfc6d571fb | Suno2 | /workspace/rutube_clips/My_kapli_chto_poznali_more.mp4 | Suno (Grok Bot), [YouTube](https://youtu.be/r8jKmu43N9A), 14.10.2026 | Rutube agent, [Rutube](https://rutube.ru/video/82779d2074d812c224fcae20790cae08/), 14.10.2026, в плейлисте | загружено YouTube и Rutube |
 | <img src="covers/15_flute-lullaby.jpg" width="120"> | 15 | The flute lullaby | https://suno.com/song/03970ecd-99a6-4275-8037-6ae2c855345d | Suno2 | /workspace/rutube_clips/The_flute_lullaby.mp4 | Suno (Grok Bot), [YouTube](https://youtu.be/GA9f92XF65U), 14.10.2026 | Rutube agent, [Rutube](https://rutube.ru/video/64704c8dc8fc8f7751584e121d5ceb02/), 14.10.2026, в плейлисте | загружено YouTube и Rutube |
-| <img src="covers/16_cifrovoj-konclager.jpg" width="120"> | 16 | Цифровой концлагерь (РКН микс) | https://suno.com/song/053f8ea0-9dbe-42c9-83f1-c2b4a25b9f30 | Suno2 | /workspace/comic_clip/clip_15_cifrovoj_konclager.mp4 | — | пропуск на Rutube (решение Андрея 13.10: политический риск) | комикс готов |
+| <img src="covers/16_cifrovoj-konclager.jpg" width="120"> | 16 | Цифровой концлагерь (РКН микс) | https://suno.com/song/053f8ea0-9dbe-42c9-83f1-c2b4a25b9f30 | Suno2 | /workspace/rutube_clips/Cifrovoj_konclager.mp4 | Suno (Grok Bot), [YouTube](https://youtu.be/sZp4pgTjUzw), 14.10.2026 | пропуск на Rutube (решение Андрея 13.10: политический риск) | загружено YouTube; Rutube пропуск |
 | <img src="covers/17_sun-in-the-east.jpg" width="120"> | 17 | Sun in the East (Deep House Mix) | https://suno.com/song/efe0ab7d-da38-45bc-b349-dfb28c667a0d | Suno2 | /workspace/comic_clip/clip_16_sun_in_the_east.mp4 | — | Rutube agent, [Rutube](https://rutube.ru/video/77dc5e54d16a9a11586dbb86af2dbd98/), 14.10.2026, в плейлисте | загружено Rutube |
 | <img src="covers/18_katafalk-budushchego.jpg" width="120"> | 18 | Катафалк Будущего | https://suno.com/song/126691ec-8476-47bf-86c1-3f5f141b17ae | Suno2 | /workspace/comic_clip/clip_17_katafalk.mp4 | — | [Rutube](https://rutube.ru/video/d555b9afc80d5e639c5a227928581cfb/) | комикс готов |
 | <img src="covers/19_premii-dosrochno.jpg" width="120"> | 19 | Премии досрочно | https://suno.com/song/857a8b82-a0ac-4691-88b5-f01b732d1b80 | Suno2 | /workspace/comic_clip/clip_18_premii_dosrochno.mp4 | — | пропуск (решение Андрея) | комикс готов |
