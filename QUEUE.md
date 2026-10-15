@@ -4,7 +4,7 @@
 - YouTube: [Andrey Lezhnin (CutNoGood)](https://www.youtube.com/channel/UCM3uC4R7HIQ3Ae8Op1YvPBw)
 - Rutube: [канал Cicada 3301](https://rutube.ru/channel/32073528/), [плейлист комикс-клипов](https://rutube.ru/plst/1844039)
 
-Обновлено: 15.10.2026 ~00:04 МСК
+Обновлено: 15.10.2026 ~09:58 МСК
 
 | Обложка | № | Трек | Ссылка Suno | Клип (кто сделал) | Файл | YouTube (кто загрузил, ссылка, дата) | Rutube (статус) | Статус |
 |---|---|---|---|---|---|---|---|---|
@@ -53,3 +53,4 @@
 | <img src="covers/43_plashka-32.jpg" width="120"> | 43 | Плашка на тридцать два | https://suno.com/song/9f9832ec-e2ec-4271-b586-babee9476a6d | Suno2 | /workspace/comic_clip/clip_44_plashka-32.mp4 | — | [Rutube](https://rutube.ru/video/e5893b3a175f533a031d7e69d24655b0/) | Источник: [t.me/pezduza/19453](https://t.me/pezduza/19453) — «сатира: Трамп, оперативка, датацентры, Путин шлёт плашку 32 ГБ» Трек [Suno](https://suno.com/song/9f9832ec-e2ec-4271-b586-babee9476a6d). Персонажи вымышленные. комикс готов (Rutube, не YouTube-очередь) |
 | <img src="covers/44_tramp-i-ilon.jpg" width="120"> | 44 | Трамп и Илон | https://suno.com/song/5cf9f458-2d59-4193-b46d-4adf00a66a24 | Suno2 | /workspace/comic_clip/clip_45_tramp-i-ilon.mp4 | — | пропуск (решение Андрея) | Источник: [t.me/pezduza/19456](https://t.me/pezduza/19456) — «сатира: бахвальный политик пересказывает разговор с изобретателем про спутники; персонажи комикса вымышленные» Трек [Suno](https://suno.com/song/5cf9f458-2d59-4193-b46d-4adf00a66a24). EQ overlay eq-h=360, без чёрной плашки; check_45.png OK комикс готов (Rutube, не YouTube-очередь) |
 | <img src="covers/45_chto-tam-napisano.jpg" width="120"> | 45 | Что там написано? | https://suno.com/song/a0b61dda-9ef4-41c7-802e-d35d80ab46f7 | Suno2 | /workspace/comic_clip/clip_46_chto-tam-napisano.mp4 | — | пропуск (решение Андрея) | Источник: [t.me/pezduza/19457](https://t.me/pezduza/19457) — «персонажи вымышленные» Трек [Suno](https://suno.com/song/a0b61dda-9ef4-41c7-802e-d35d80ab46f7). EQ overlay eq-h=360; check_46.png OK комикс готов (Rutube, не YouTube-очередь) |
+| <img src="covers/46_tykvennyj-latte.jpg" width="120"> | 46 | Тыквенный латте каменного века | https://suno.com/song/e673bd2b-b553-4e40-a51a-a0b3e0ac93e1 | Suno2 | /workspace/comic_clip/clip_47_tykvennyj-latte.mp4 | — | — | Источник: [t.me/pezduza/19458](https://t.me/pezduza/19458) — «персонажи вымышленные» Трек [Suno](https://suno.com/song/e673bd2b-b553-4e40-a51a-a0b3e0ac93e1). EQ overlay eq-h=360; check_47.png OK комикс готов (Rutube, не YouTube-очередь) |
