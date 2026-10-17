@@ -1,0 +1,66 @@
+# Я русский мужик
+
+## Style
+```
+russian rock anthem, dark electric guitar riffs, powerful male vocal, stacked harmonies, ironic
+```
+
+## Lyrics
+```
+[Intro | dark electric guitar riff, building tension]
+Я рУсский мужИк
+
+[Verse 1 | determined male vocal, rhythmic]
+Я рУсский мужИк нефильтрОванный
+Я рУсский мужИк сформирОванный
+Я рУсский мужИк, а кто завИдует —
+Пусть эмигрИрует
+
+[Verse 2 | determined male vocal]
+Иногда я не причёсанный
+Могу быть растрёпанным
+Мой ориентир — это семья
+Это родные, для них я создан
+
+Не люблю я Луи ВитОновну
+Не люблю я Ала АйфОновну
+Мне нравится Надежда КвасОвна
+А самая красивая — Любовь ПивасОвна
+
+[Chorus | explosive anthemic chorus | powerful male vocal | stacked harmonies | long held notes]
+Я рУсский мужИк нефильтрОванный!
+Я рУсский мужИк сформирОванный!
+Я рУсский мужИк, а кто завИдует —
+Пусть эмигрИрует!
+
+[Verse 3 | determined male vocal, building]
+Говорю вам, Америка давно уже как Европа
+Нам она не нужна, зачем искать
+Мы и так счастливы за границей
+Ведь мы — страна, а там — дурдом
+
+[Chorus | explosive anthemic chorus | powerful male vocal | stacked harmonies | long held notes]
+Я рУсский мужИк нефильтрОванный!
+Я рУсский мужИк сформирОванный!
+Я рУсский мужИк, а кто завИдует —
+Пусть эмигрИрует!
+
+[Bridge | emotional male vocal, guitar solo]
+Давай, давай, давай
+Давай, давай, давай
+О, привет, поехали!
+
+[Final Chorus | explosive anthemic chorus | powerful male vocal | stacked harmonies | building intensity]
+Я рУсский мужИк нефильтрОванный!
+Я рУсский мужИк сформирОванный!
+Я рУсский мужИк, а кто завИдует —
+Пусть эмигрИрует!
+
+Я рУсский, может, нефильтрОванный
+Я рУсский, но могу быть сформирОванным
+Я могу быть рУсским
+А кто завИдует — пусть эмигрИрует
+
+[Outro | fading guitars]
+Спасибо
+```
