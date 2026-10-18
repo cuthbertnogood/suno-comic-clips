@@ -4,7 +4,7 @@
 - YouTube: [Andrey Lezhnin (CutNoGood)](https://www.youtube.com/channel/UCM3uC4R7HIQ3Ae8Op1YvPBw)
 - Rutube: [канал Cicada 3301](https://rutube.ru/channel/32073528/), [плейлист комикс-клипов](https://rutube.ru/plst/1844039)
 
-Обновлено: 17.10.2026 ~20:15 МСК
+Обновлено: 18.10.2026 ~22:45 МСК
 
 | Обложка | № | Трек | Ссылка Suno | Клип (кто сделал) | Файл | YouTube (кто загрузил, ссылка, дата) | Rutube (статус) | Статус |
 |---|---|---|---|---|---|---|---|---|
@@ -59,3 +59,4 @@
 | <img src="covers/49_ogon-na-stekle.jpg" width="120"> | 49 | Огонь на стекле | https://suno.com/song/f3608814-975d-45b5-a48b-d83498c0fb7a | Suno2 | /workspace/rutube_clips/clip_50_ogon-na-stekle.mp4 | Youtube_Agent, [YouTube](https://youtu.be/p2v-3Rw-TfI), 16.10.2026 | [Rutube](https://rutube.ru/video/a908a489a87a78e7c77844646766a85b/) | Трек [Suno](https://suno.com/song/f3608814-975d-45b5-a48b-d83498c0fb7a). EQ overlay eq-h=360; check_50.png OK загружено YouTube (Rutube, не YouTube-очередь) |
 | <img src="covers/50_ya-russkij-muzhik.jpg" width="120"> | 50 | Я русский мужик | https://suno.com/song/43f43172-dc44-480b-b357-6291a22e019b | Suno2 | /workspace/rutube_clips/clip_51_ya-russkij-muzhik.mp4 | Youtube_Agent, [YouTube](https://youtu.be/ptb5Uj2eIjg), 17.10.2026 | [Rutube](https://rutube.ru/video/b9058f0fb9f108804b10450f15fcbdaa/) | Трек [Suno](https://suno.com/song/43f43172-dc44-480b-b357-6291a22e019b). EQ overlay eq-h=360; check_51.png OK загружено YouTube (Rutube, не YouTube-очередь) |
 | <img src="covers/51_zvuk-budushchego.jpg" width="120"> | 51 | Звук будущего (Adult Voice Mix) | https://suno.com/song/b97d77e7-5654-4fe0-9693-7a5887583ac2 | Suno2 | /workspace/rutube_clips/clip_52_zvuk-budushchego.mp4 | Youtube_Agent, [YouTube](https://youtu.be/q5LcMXNLn-c), 17.10.2026 | — | Трек [Suno](https://suno.com/song/b97d77e7-5654-4fe0-9693-7a5887583ac2). EQ overlay eq-h=360; check_52.png OK загружено YouTube (Rutube, не YouTube-очередь); старое KTCtB6AQj3U → unlisted |
+| <img src="covers/53_slovo-patsana.jpg" width="120"> | 53 | Слово пацана | https://suno.com/song/6331d00d-220c-4134-89a9-794b94fdcd60 | Suno2 | /workspace/Suno2_Agent/pipeline/out/slovo-patsana/clip_slovo-patsana.mp4 | — | — | Трек [Suno](https://suno.com/song/6331d00d-220c-4134-89a9-794b94fdcd60). комикс готов (Rutube, не YouTube-очередь) |
